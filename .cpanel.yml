@@ -1,0 +1,8 @@
+---
+deployment:
+  tasks:
+    - export
+    - bundle:
+        dirs:
+          - dist
+    - publish: dist
