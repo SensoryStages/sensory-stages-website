@@ -1,8 +1,7 @@
 {
   "name": "sensory-stages-website",
   "homepage": "http://sensorystages.com",
-  "version": "0.1.0",
-  "private": true,
+  "version": "0.1.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
